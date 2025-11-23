@@ -42,7 +42,8 @@
 
                 if (interacoes.Count == n)
                 {
-                    Console.Write(numeros + "}");
+                    Console.Write(numeros + " }");
+                    Console.WriteLine();
                 }
                 else
                 {

@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Reverse String");
             Console.WriteLine("-------------");
-            Console.WriteLine("Qual palavra deseja reverte: ");
+            Console.Write("Qual palavra deseja reverte: ");
             string palavra = Console.ReadLine();
 
             string troca = "";
